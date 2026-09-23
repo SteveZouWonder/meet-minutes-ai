@@ -1,0 +1,4 @@
+# Only the root *.js files and appsscript.json go to Apps Script.
+**/**
+!*.js
+!appsscript.json

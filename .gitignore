@@ -1,0 +1,18 @@
+# clasp binds this checkout to one specific Apps Script project; every user has their own.
+.clasp.json
+.clasprc.json
+
+# IDE / editor
+.idea/
+.vscode/
+*.iml
+
+# opencode agent workspace: instance-specific ops skills for the maintainer's own deployment
+.opencode/
+
+# private design prompts never leave this machine
+*_PROMPT.md
+
+# OS
+.DS_Store
+Thumbs.db
